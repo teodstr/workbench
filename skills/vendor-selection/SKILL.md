@@ -35,7 +35,7 @@ The cheapest quote is often the most expensive one once delays, extras and missi
 1. **Write a short specification** so that every supplier quotes the same thing: scope, quantities, quality level, deadline, constraints of the site or the system.
 2. **Get at least three comparable quotes** and put them line by line in the same table: what is included, what is excluded, unit prices, taxes, deposit and payment terms, delays, validity of the quote.
 3. **Check the risks behind each offer**: references and reviews you can verify, registration of the company, insurance and guarantees required for this kind of work, subcontracting, cancellation terms. Large deposits before any work starts are a warning sign.
-4. **Check the official rules** that protect buyers in the country, on the official page and with the date (for example service-public.fr and the DGCCRF on economie.gouv.fr in France, the Your Europe portal for cross-border purchases in the European Union, the local consumer office in Spain, the Office de la protection du consommateur in Quebec, PROFECO in Mexico).
+4. **Check the official rules** that protect buyers in the country, on the official page and with the date (for example service-public.fr and the DGCCRF on economie.gouv.fr in France, the Your Europe portal for cross-border purchases in the European Union, the consumer pages of the Ministry of Social Rights, Consumer Affairs and 2030 Agenda in Spain, with the municipal consumer office (OMIC) or the regional consumer authority for complaints, the Office de la protection du consommateur in Quebec, PROFECO in Mexico).
 5. **Score the offers** on weighted criteria (`decision-making`), price being one criterion among several.
 6. **Prepare the negotiation and the questions** before signing: what is unclear, what is missing, a payment schedule tied to milestones, penalties for delays when they make sense.
 7. **Write down the choice** and the reasons, and keep the losing quotes: they help if the chosen supplier fails.
@@ -87,3 +87,7 @@ Recommendation: … | Questions before signing: 1. … | Rules checked on <date>
 - PROFECO (Mexico, federal consumer protection agency, with guidance on quotes, deposits and guarantees): https://www.gob.mx/profeco
 - Ley Federal de Protección al Consumidor (Mexico, official text): https://www.diputados.gob.mx/LeyesBiblio/pdf/LFPC.pdf
 - PROFECO, complaints and denunciations (Mexico): https://www.gob.mx/profeco/articulos/proceso-y-requisitos-de-quejas-y-denuncias
+- Ministry of Social Rights, Consumer Affairs and 2030 Agenda, how to make a consumer complaint (Spain: complaint forms, municipal and regional consumer offices): https://www.dsca.gob.es/es/consumo/como-reclamar-conflicto-consumo
+- Ministry of Social Rights, Consumer Affairs and 2030 Agenda, consumer FAQ including guarantees and repairs (Spain): https://www.dsca.gob.es/es/consumo/preguntas-frecuentes
+- Consumer Arbitration System, free out-of-court settlement with a merchant (Spain): https://www.dsca.gob.es/es/consumo/como-reclamar-conflicto-consumo/sistema-arbitral-consumo
+- General Law for the Defence of Consumers and Users, Royal Legislative Decree 1/2007 (Spain, official text in the BOE): https://www.boe.es/buscar/act.php?id=BOE-A-2007-20555
